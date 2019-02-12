@@ -1,6 +1,6 @@
 //
 //  main.m
-//  SceneKitDemo
+//  SceneKitDemo01
 //
 //  Created by Hans3D on 2019/2/12.
 //  Copyright © 2019年 wnkpzzz. All rights reserved.

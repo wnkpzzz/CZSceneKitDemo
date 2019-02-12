@@ -7,33 +7,33 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		ED2B714F2212A0410054295F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = ED2B714E2212A0410054295F /* AppDelegate.m */; };
-		ED2B71522212A0410054295F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ED2B71512212A0410054295F /* ViewController.m */; };
-		ED2B71552212A0410054295F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ED2B71532212A0410054295F /* Main.storyboard */; };
-		ED2B71572212A0430054295F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ED2B71562212A0430054295F /* Assets.xcassets */; };
-		ED2B715A2212A0430054295F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ED2B71582212A0430054295F /* LaunchScreen.storyboard */; };
-		ED2B715D2212A0430054295F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = ED2B715C2212A0430054295F /* main.m */; };
-		ED2B71662212A11E0054295F /* head3d.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ED2B71642212A11E0054295F /* head3d.jpg */; };
-		ED2B71672212A11E0054295F /* head3d.obj in Resources */ = {isa = PBXBuildFile; fileRef = ED2B71652212A11E0054295F /* head3d.obj */; };
+		EDE21CF72212BA4700AE508F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = EDE21CF62212BA4700AE508F /* AppDelegate.m */; };
+		EDE21CFA2212BA4700AE508F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EDE21CF92212BA4700AE508F /* ViewController.m */; };
+		EDE21CFD2212BA4700AE508F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EDE21CFB2212BA4700AE508F /* Main.storyboard */; };
+		EDE21CFF2212BA4800AE508F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EDE21CFE2212BA4800AE508F /* Assets.xcassets */; };
+		EDE21D022212BA4800AE508F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EDE21D002212BA4800AE508F /* LaunchScreen.storyboard */; };
+		EDE21D052212BA4800AE508F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EDE21D042212BA4800AE508F /* main.m */; };
+		EDE21D0E2212BA5A00AE508F /* head3d.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EDE21D0C2212BA5A00AE508F /* head3d.jpg */; };
+		EDE21D0F2212BA5A00AE508F /* head3d.obj in Resources */ = {isa = PBXBuildFile; fileRef = EDE21D0D2212BA5A00AE508F /* head3d.obj */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		ED2B714A2212A0410054295F /* SceneKitDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SceneKitDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		ED2B714D2212A0410054295F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		ED2B714E2212A0410054295F /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		ED2B71502212A0410054295F /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		ED2B71512212A0410054295F /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		ED2B71542212A0410054295F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		ED2B71562212A0430054295F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		ED2B71592212A0430054295F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		ED2B715B2212A0430054295F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		ED2B715C2212A0430054295F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		ED2B71642212A11E0054295F /* head3d.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = head3d.jpg; sourceTree = "<group>"; };
-		ED2B71652212A11E0054295F /* head3d.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = head3d.obj; sourceTree = "<group>"; };
+		EDE21CF22212BA4700AE508F /* SceneKitDemo01.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SceneKitDemo01.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EDE21CF52212BA4700AE508F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		EDE21CF62212BA4700AE508F /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		EDE21CF82212BA4700AE508F /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		EDE21CF92212BA4700AE508F /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		EDE21CFC2212BA4700AE508F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		EDE21CFE2212BA4800AE508F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		EDE21D012212BA4800AE508F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		EDE21D032212BA4800AE508F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EDE21D042212BA4800AE508F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		EDE21D0C2212BA5A00AE508F /* head3d.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = head3d.jpg; sourceTree = "<group>"; };
+		EDE21D0D2212BA5A00AE508F /* head3d.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = head3d.obj; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		ED2B71472212A0410054295F /* Frameworks */ = {
+		EDE21CEF2212BA4700AE508F /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -43,44 +43,44 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		ED2B71412212A0410054295F = {
+		EDE21CE92212BA4700AE508F = {
 			isa = PBXGroup;
 			children = (
-				ED2B714C2212A0410054295F /* SceneKitDemo */,
-				ED2B714B2212A0410054295F /* Products */,
+				EDE21CF42212BA4700AE508F /* SceneKitDemo01 */,
+				EDE21CF32212BA4700AE508F /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		ED2B714B2212A0410054295F /* Products */ = {
+		EDE21CF32212BA4700AE508F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				ED2B714A2212A0410054295F /* SceneKitDemo.app */,
+				EDE21CF22212BA4700AE508F /* SceneKitDemo01.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		ED2B714C2212A0410054295F /* SceneKitDemo */ = {
+		EDE21CF42212BA4700AE508F /* SceneKitDemo01 */ = {
 			isa = PBXGroup;
 			children = (
-				ED2B714D2212A0410054295F /* AppDelegate.h */,
-				ED2B714E2212A0410054295F /* AppDelegate.m */,
-				ED2B71502212A0410054295F /* ViewController.h */,
-				ED2B71512212A0410054295F /* ViewController.m */,
-				ED2B71632212A11E0054295F /* 3DRecourse */,
-				ED2B71532212A0410054295F /* Main.storyboard */,
-				ED2B71562212A0430054295F /* Assets.xcassets */,
-				ED2B71582212A0430054295F /* LaunchScreen.storyboard */,
-				ED2B715B2212A0430054295F /* Info.plist */,
-				ED2B715C2212A0430054295F /* main.m */,
+				EDE21CF52212BA4700AE508F /* AppDelegate.h */,
+				EDE21CF62212BA4700AE508F /* AppDelegate.m */,
+				EDE21CF82212BA4700AE508F /* ViewController.h */,
+				EDE21CF92212BA4700AE508F /* ViewController.m */,
+				EDE21D0B2212BA5A00AE508F /* 3DRecourse */,
+				EDE21CFB2212BA4700AE508F /* Main.storyboard */,
+				EDE21CFE2212BA4800AE508F /* Assets.xcassets */,
+				EDE21D002212BA4800AE508F /* LaunchScreen.storyboard */,
+				EDE21D032212BA4800AE508F /* Info.plist */,
+				EDE21D042212BA4800AE508F /* main.m */,
 			);
-			path = SceneKitDemo;
+			path = SceneKitDemo01;
 			sourceTree = "<group>";
 		};
-		ED2B71632212A11E0054295F /* 3DRecourse */ = {
+		EDE21D0B2212BA5A00AE508F /* 3DRecourse */ = {
 			isa = PBXGroup;
 			children = (
-				ED2B71642212A11E0054295F /* head3d.jpg */,
-				ED2B71652212A11E0054295F /* head3d.obj */,
+				EDE21D0C2212BA5A00AE508F /* head3d.jpg */,
+				EDE21D0D2212BA5A00AE508F /* head3d.obj */,
 			);
 			path = 3DRecourse;
 			sourceTree = "<group>";
@@ -88,38 +88,38 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		ED2B71492212A0410054295F /* SceneKitDemo */ = {
+		EDE21CF12212BA4700AE508F /* SceneKitDemo01 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = ED2B71602212A0430054295F /* Build configuration list for PBXNativeTarget "SceneKitDemo" */;
+			buildConfigurationList = EDE21D082212BA4800AE508F /* Build configuration list for PBXNativeTarget "SceneKitDemo01" */;
 			buildPhases = (
-				ED2B71462212A0410054295F /* Sources */,
-				ED2B71472212A0410054295F /* Frameworks */,
-				ED2B71482212A0410054295F /* Resources */,
+				EDE21CEE2212BA4700AE508F /* Sources */,
+				EDE21CEF2212BA4700AE508F /* Frameworks */,
+				EDE21CF02212BA4700AE508F /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = SceneKitDemo;
-			productName = SceneKitDemo;
-			productReference = ED2B714A2212A0410054295F /* SceneKitDemo.app */;
+			name = SceneKitDemo01;
+			productName = SceneKitDemo01;
+			productReference = EDE21CF22212BA4700AE508F /* SceneKitDemo01.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		ED2B71422212A0410054295F /* Project object */ = {
+		EDE21CEA2212BA4700AE508F /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 1000;
 				ORGANIZATIONNAME = wnkpzzz;
 				TargetAttributes = {
-					ED2B71492212A0410054295F = {
+					EDE21CF12212BA4700AE508F = {
 						CreatedOnToolsVersion = 10.0;
 					};
 				};
 			};
-			buildConfigurationList = ED2B71452212A0410054295F /* Build configuration list for PBXProject "SceneKitDemo" */;
+			buildConfigurationList = EDE21CED2212BA4700AE508F /* Build configuration list for PBXProject "SceneKitDemo01" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -127,57 +127,57 @@
 				en,
 				Base,
 			);
-			mainGroup = ED2B71412212A0410054295F;
-			productRefGroup = ED2B714B2212A0410054295F /* Products */;
+			mainGroup = EDE21CE92212BA4700AE508F;
+			productRefGroup = EDE21CF32212BA4700AE508F /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				ED2B71492212A0410054295F /* SceneKitDemo */,
+				EDE21CF12212BA4700AE508F /* SceneKitDemo01 */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		ED2B71482212A0410054295F /* Resources */ = {
+		EDE21CF02212BA4700AE508F /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ED2B715A2212A0430054295F /* LaunchScreen.storyboard in Resources */,
-				ED2B71572212A0430054295F /* Assets.xcassets in Resources */,
-				ED2B71662212A11E0054295F /* head3d.jpg in Resources */,
-				ED2B71672212A11E0054295F /* head3d.obj in Resources */,
-				ED2B71552212A0410054295F /* Main.storyboard in Resources */,
+				EDE21D022212BA4800AE508F /* LaunchScreen.storyboard in Resources */,
+				EDE21CFF2212BA4800AE508F /* Assets.xcassets in Resources */,
+				EDE21D0E2212BA5A00AE508F /* head3d.jpg in Resources */,
+				EDE21D0F2212BA5A00AE508F /* head3d.obj in Resources */,
+				EDE21CFD2212BA4700AE508F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		ED2B71462212A0410054295F /* Sources */ = {
+		EDE21CEE2212BA4700AE508F /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ED2B71522212A0410054295F /* ViewController.m in Sources */,
-				ED2B715D2212A0430054295F /* main.m in Sources */,
-				ED2B714F2212A0410054295F /* AppDelegate.m in Sources */,
+				EDE21CFA2212BA4700AE508F /* ViewController.m in Sources */,
+				EDE21D052212BA4800AE508F /* main.m in Sources */,
+				EDE21CF72212BA4700AE508F /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		ED2B71532212A0410054295F /* Main.storyboard */ = {
+		EDE21CFB2212BA4700AE508F /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				ED2B71542212A0410054295F /* Base */,
+				EDE21CFC2212BA4700AE508F /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		ED2B71582212A0430054295F /* LaunchScreen.storyboard */ = {
+		EDE21D002212BA4800AE508F /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				ED2B71592212A0430054295F /* Base */,
+				EDE21D012212BA4800AE508F /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -185,7 +185,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		ED2B715E2212A0430054295F /* Debug */ = {
+		EDE21D062212BA4800AE508F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -244,7 +244,7 @@
 			};
 			name = Debug;
 		};
-		ED2B715F2212A0430054295F /* Release */ = {
+		EDE21D072212BA4800AE508F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -297,35 +297,33 @@
 			};
 			name = Release;
 		};
-		ED2B71612212A0430054295F /* Debug */ = {
+		EDE21D092212BA4800AE508F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = SceneKitDemo/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				INFOPLIST_FILE = SceneKitDemo01/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.cz.wnkpzzz.SceneKitDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.cz.wnkpzzz.SceneKitDemo01;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		ED2B71622212A0430054295F /* Release */ = {
+		EDE21D0A2212BA4800AE508F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = SceneKitDemo/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				INFOPLIST_FILE = SceneKitDemo01/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.cz.wnkpzzz.SceneKitDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.cz.wnkpzzz.SceneKitDemo01;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -334,25 +332,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		ED2B71452212A0410054295F /* Build configuration list for PBXProject "SceneKitDemo" */ = {
+		EDE21CED2212BA4700AE508F /* Build configuration list for PBXProject "SceneKitDemo01" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				ED2B715E2212A0430054295F /* Debug */,
-				ED2B715F2212A0430054295F /* Release */,
+				EDE21D062212BA4800AE508F /* Debug */,
+				EDE21D072212BA4800AE508F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		ED2B71602212A0430054295F /* Build configuration list for PBXNativeTarget "SceneKitDemo" */ = {
+		EDE21D082212BA4800AE508F /* Build configuration list for PBXNativeTarget "SceneKitDemo01" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				ED2B71612212A0430054295F /* Debug */,
-				ED2B71622212A0430054295F /* Release */,
+				EDE21D092212BA4800AE508F /* Debug */,
+				EDE21D0A2212BA4800AE508F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = ED2B71422212A0410054295F /* Project object */;
+	rootObject = EDE21CEA2212BA4700AE508F /* Project object */;
 }
