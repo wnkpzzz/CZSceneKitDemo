@@ -1,9 +1,7 @@
 # SceneKitDemo
 
-项目需要使用3D模型，将3D模型展示到客户端。就查阅了苹果相关的资料。
+为了方便Demo整理，所以很多Demo放在一个里面，不需要的大家可以不用理会。
 
-如果用OpenGL太麻烦，而且那个东西太接近于底层，个人还是稍微欠缺点，所以经过多方查询，得出了用SceneKit做这个是最佳的方案。
+SceneKitDemo01  SceneKit展示简单obj模型、博客地址：https://www.jianshu.com/p/f644a8b5990c
 
-SceneKit是苹果的3D引擎，一般用于游戏开发。除游戏外其他的应用场景一般是3D效果的物体展示。
 
-博客地址：https://www.jianshu.com/p/f644a8b5990c
