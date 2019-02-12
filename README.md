@@ -8,5 +8,5 @@ SceneKit展示简单obj模型、
 
 SceneKitDemo02
 SceneKit动态加载.obj模型踩坑、
-博客地址：hhttps://www.jianshu.com/p/56f17038b8a9
+博客地址：https://www.jianshu.com/p/56f17038b8a9
 
