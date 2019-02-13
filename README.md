@@ -3,13 +3,13 @@
  
 SceneKitDemo01
 
-SceneKit展示简单obj模型、
+iOS-SceneKit网络下载模型无法加载贴图解决方案、
 
 博客地址：https://www.jianshu.com/p/f644a8b5990c
 
 
 SceneKitDemo02
 
-SceneKit动态加载.obj模型踩坑、
+iOS-SceneKit3D模型+下载+归档+展示+删除、
 
 博客地址：https://www.jianshu.com/p/56f17038b8a9
