@@ -1,6 +1,6 @@
-# SceneKitDemo
-为了方便Demo整理，所以很多Demo放在一个里面，不需要的大家可以不用理会。
+# SceneKitDemo 为了方便Demo整理，所以很多Demo放在一个里面，不需要的大家可以不用理会。
 
+ 
 SceneKitDemo01
 
 SceneKit展示简单obj模型、
